@@ -1,0 +1,4 @@
+This Project tries to tackle down a big issue in the Natural language processing domain of tackling hate speech by classifying the dataset into sincere or unsincere catagory.
+The Neural Networks are perfectly capable of learning text emotions from labelled dataset and we aim to utilize this capabilty.
+Usiing Hugging Face's Emotion dataset which contains 20,000 labelled tweets to train and test our Neural network to be able to classify unseen tweets.
+The Preprocessing of the dataset includes Tokenization
